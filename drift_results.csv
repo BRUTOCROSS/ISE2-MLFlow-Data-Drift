@@ -1,0 +1,5 @@
+feature,ks_statistic,p_value,drift_detected
+sepal length (cm),0.65,4.091668652244871e-10,True
+sepal width (cm),0.18333333333333332,0.37034540433706226,False
+petal length (cm),0.08333333333333326,0.9939877755614348,False
+petal width (cm),0.09166666666666665,0.9823387214430702,False
